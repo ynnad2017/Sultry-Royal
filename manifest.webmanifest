@@ -1,0 +1,22 @@
+{
+  "name": "RS Sultry-Royal Appointment Reminder",
+  "short_name": "RS Sultry-Royal",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#121212",
+  "orientation": "portrait",
+  "description": "Massage appointment booking and reminders for RS Sultry-Royal.",
+  "icons": [
+    {
+      "src": "icon-180.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
